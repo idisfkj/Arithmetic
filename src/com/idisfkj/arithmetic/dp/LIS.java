@@ -1,6 +1,7 @@
 package com.idisfkj.arithmetic.dp;
 
 /**
+ * 一个序列有N个数：A[1],A[2],…,A[N]，求出最长非降子序列的长度。
  * Longest Increasing Subsequenece
  * Created by idisfkj on 16/8/1.
  */
