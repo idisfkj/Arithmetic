@@ -2,15 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0250eb1-e268-4447-a504-4bd27f7e6989" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/dp/FindApple.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/dp/LIS.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArithmeticWork/com/idisfkj/arithmetic/BinarySearch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArithmeticWork/com/idisfkj/arithmetic/DynamicPlanning.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArithmeticWork/com/idisfkj/arithmetic/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArithmeticWork/com/idisfkj/arithmetic/Queen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArithmeticWork/com/idisfkj/arithmetic/RandomDot.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArithmeticWork/com/idisfkj/arithmetic/RandomQueen.class" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/adapter/AbsAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/adapter/AbstractAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/adapter/Adapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/adapter/AdapterTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/adapter/ObjAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/adapter/Source.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/adapter/Targeble.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/decorator/DecoratorClothes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/decorator/DecoratorTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/decorator/DecoratorTrousers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/decorator/Source.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/decorator/Sourceable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/factory/EmailSender.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/factory/FactoryTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/factory/MultiFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/factory/Sender.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/factory/SimpleFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/factory/SmsSender.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/factory/StaticFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/observer/AbsrtractSubject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/observer/IObserver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/observer/ISubject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/observer/ObserverOne.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/observer/ObserverTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/observer/ObserverTwo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/observer/Subject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/singleton/ESingleton.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/singleton/LSingleton.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/startegy/Calculator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/startegy/ICalculator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/startegy/Minus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/startegy/Plus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/startegy/StartegyTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArithmeticWork/com/idisfkj/arithmetic/HeapSort.class" afterPath="$PROJECT_DIR$/out/production/ArithmeticWork/com/idisfkj/arithmetic/HeapSort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArithmeticWork/com/idisfkj/arithmetic/dp/FindApple.class" afterPath="$PROJECT_DIR$/out/production/ArithmeticWork/com/idisfkj/arithmetic/dp/FindApple.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArithmeticWork/com/idisfkj/arithmetic/dp/LIS.class" afterPath="$PROJECT_DIR$/out/production/ArithmeticWork/com/idisfkj/arithmetic/dp/LIS.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ArithmeticWork.iws" />
@@ -33,41 +61,63 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DynamicPlanning.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/search/DynamicPlanning.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LIS.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/dp/LIS.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FindApple.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/dp/FindApple.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+            <state relative-caret-position="0">
+              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HeapSort.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HeapSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/HeapSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
+            <state relative-caret-position="805">
               <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShellSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/ShellSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="219" column="0" selection-start-line="219" selection-start-column="0" selection-end-line="219" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FactoryTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/factory/FactoryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -78,6 +128,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -93,36 +144,65 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/Queen.java" />
-        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/RandomDot.java" />
-        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/RandomQueen.java" />
-        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/BinarySearch.java" />
-        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/MergeSort.java" />
-        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/QuickSort.java" />
-        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/DynamicPlanning.java" />
-        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/SelectSort.java" />
-        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/InsertSort.java" />
-        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/ShellSort.java" />
-        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/search/BinarySearch.java" />
         <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/search/DynamicPlanning.java" />
         <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/search/RandomDot.java" />
         <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/search/RandomQueen.java" />
         <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/search/Queen.java" />
         <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/search/Main.java" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/dp/LIS.java" />
         <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/FindApple.java" />
-        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/dp/FindApple.java" />
         <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/dp/LIS.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/dp/FindApple.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/Targeble.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/Source.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/Adapter.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/AdapterTest.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/AdapterTest.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/Adapter.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/adapter/Source.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/adapter/Targeble.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/decorator/Sourceable.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/decorator/Decorator.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/decorator/Source.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/decorator/DecoratorTest.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/decorator/DecoratorClothes.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/decorator/DecoratorTrousers.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/startegy/Calucaotr.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/startegy/ICalculator.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/startegy/Minus.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/startegy/Plus.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/observer/IObserver.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/observer/ObserverOne.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/observer/ObserverTwo.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/observer/ISubject.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/observer/Subject.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/observer/AbsrtractSubject.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/observer/ObserverTest.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/startegy/StartegyTest.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/adapter/Adapter.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/adapter/ObjAdapter.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/adapter/AbstractAdapter.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/adapter/AbsAdapter.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/adapter/AdapterTest.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/singleton/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/singleton/LSingleton.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/factory/Sender.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/factory/EmailSender.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/factory/SmsSender.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/factory/SimpleFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/factory/MultiFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/factory/StaticFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/factory/FactoryTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="1173" />
+    <option name="x" value="283" />
+    <option name="y" value="115" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -149,6 +229,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -203,7 +285,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="search" />
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="startegy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -225,14 +311,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="dp" />
+              <option name="myItemId" value="design" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -240,15 +324,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.HeapSort">
-    <configuration default="false" name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.FactoryTest">
+    <configuration default="false" name="AdapterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.idisfkj.arithmetic.search.*" />
+          <option name="PATTERN" value="com.idisfkj.arithmetic.design.adapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.idisfkj.arithmetic.HeapSort" />
+      <option name="MAIN_CLASS_NAME" value="com.idisfkj.arithmetic.design.adapter.AdapterTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -261,14 +345,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="DecoratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.idisfkj.arithmetic.search.*" />
+          <option name="PATTERN" value="com.idisfkj.arithmetic.design.decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.idisfkj.arithmetic.ShellSort" />
+      <option name="MAIN_CLASS_NAME" value="com.idisfkj.arithmetic.design.decorator.DecoratorTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -281,14 +365,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="LIS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="StartegyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.idisfkj.arithmetic.dp.*" />
+          <option name="PATTERN" value="com.idisfkj.arithmetic.design.startegy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.idisfkj.arithmetic.dp.LIS" />
+      <option name="MAIN_CLASS_NAME" value="com.idisfkj.arithmetic.design.startegy.StartegyTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -301,14 +385,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="FindApple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ObserverTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.idisfkj.arithmetic.dp.*" />
+          <option name="PATTERN" value="com.idisfkj.arithmetic.design.observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.idisfkj.arithmetic.dp.FindApple" />
+      <option name="MAIN_CLASS_NAME" value="com.idisfkj.arithmetic.design.observer.ObserverTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -321,14 +405,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="DynamicPlanning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="FactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.idisfkj.arithmetic.search.*" />
+          <option name="PATTERN" value="com.idisfkj.arithmetic.design.factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.idisfkj.arithmetic.search.DynamicPlanning" />
+      <option name="MAIN_CLASS_NAME" value="com.idisfkj.arithmetic.design.factory.FactoryTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -621,19 +705,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.HeapSort" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ShellSort" />
-      <item index="2" class="java.lang.String" itemvalue="Application.LIS" />
-      <item index="3" class="java.lang.String" itemvalue="Application.FindApple" />
-      <item index="4" class="java.lang.String" itemvalue="Application.DynamicPlanning" />
+      <item index="0" class="java.lang.String" itemvalue="Application.AdapterTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.DecoratorTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.StartegyTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ObserverTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.FactoryTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.HeapSort" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DynamicPlanning" />
-        <item index="2" class="java.lang.String" itemvalue="Application.FindApple" />
-        <item index="3" class="java.lang.String" itemvalue="Application.LIS" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ShellSort" />
+        <item index="0" class="java.lang.String" itemvalue="Application.FactoryTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.AdapterTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ObserverTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.StartegyTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.DecoratorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -659,33 +743,33 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1173" extended-state="6" />
+    <frame x="283" y="115" width="1440" height="873" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839963" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277849" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22571693" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30985916" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963988" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18051118" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24248926" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39948782" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -701,7 +785,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -710,233 +794,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/search/DynamicPlanning.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/search/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="851">
-          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/ShellSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/search/DynamicPlanning.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/search/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="851">
-          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/ShellSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/search/DynamicPlanning.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/search/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="851">
-          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/ShellSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/search/RandomDot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/search/RandomQueen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/search/RandomDot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/search/RandomQueen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/search/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/search/Queen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/search/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/SelectSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/InsertSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
           <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -961,22 +822,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="851">
-          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/ShellSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -988,7 +833,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1537">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -996,38 +840,400 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/dp/LIS.java">
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/dp/FindApple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        <state relative-caret-position="667">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/search/DynamicPlanning.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
+        <state relative-caret-position="713">
           <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/dp/LIS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/SelectSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/ShellSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/dp/FindApple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/HeapSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
+        <state relative-caret-position="805">
           <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="219" column="0" selection-start-line="219" selection-start-column="0" selection-end-line="219" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/decorator/DecoratorTrousers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+          <folding>
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/decorator/DecoratorClothes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/decorator/Source.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding>
+            <element signature="e#174#175#0" expanded="false" />
+            <element signature="e#226#227#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/decorator/Sourceable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/startegy/Plus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/startegy/ICalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/observer/ObserverTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+          <folding>
+            <element signature="e#177#178#0" expanded="false" />
+            <element signature="e#229#230#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/observer/ObserverOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+          <folding>
+            <element signature="e#177#178#0" expanded="false" />
+            <element signature="e#229#230#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/observer/IObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/observer/ISubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/decorator/DecoratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/adapter/Adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/adapter/Targeble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/adapter/Source.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/adapter/ObjAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#200#201#0" expanded="false" />
+            <element signature="e#236#237#0" expanded="false" />
+            <element signature="e#279#280#0" expanded="false" />
+            <element signature="e#311#312#0" expanded="false" />
+            <element signature="e#354#355#0" expanded="false" />
+            <element signature="e#413#414#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/adapter/AbsAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#179#180#0" expanded="false" />
+            <element signature="e#238#239#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/adapter/AbstractAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/adapter/AdapterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/singleton/ESingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/singleton/LSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/factory/Sender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/factory/SmsSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding>
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/factory/EmailSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/factory/SimpleFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/factory/MultiFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding>
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/factory/StaticFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/observer/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/observer/AbsrtractSubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="8" column="57" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/observer/ObserverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/startegy/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/startegy/Minus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/startegy/StartegyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/idisfkj/arithmetic/design/factory/FactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
           <folding />
         </state>
       </provider>
